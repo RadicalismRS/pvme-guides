@@ -51,9 +51,6 @@ The rotations listed below are for 6man and 7man. As team size is scaled down, t
 
 **All detonates listed in these rotations should be Auto Deto Abil releases, right after reflect ends.**
 .
-__P3 - Ceiling Collapse__
-<:Asphyx:535533833072672778> > <:WM:535533809978966037> > <:Dbreath:535533833391702017> > <:Deto:535533833358016512> > <:Asphyx:535533833072672778> > <:WM:535533809978966037>
-.
 __P4 - Scopulus__
 Do a normal sunshine rotation, using 4TAA Barrage + Dark Form, and prioritizing AoE abilities.
 .
